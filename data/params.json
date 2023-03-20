@@ -1,5 +1,5 @@
 {
-  "title": "@leny/bowlstats",
+  "title": "@iooner/bowlstats",
   "subtitle": "A small bowling stats tracker",
   "goals": {
     "avgScorePerGame": 100,
